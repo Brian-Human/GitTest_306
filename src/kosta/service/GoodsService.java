@@ -6,6 +6,11 @@ public class GoodsService {
 		System.out.println("insert call2 .....");
 	
 	
+<<<<<<< HEAD
 	
 	}
 }
+=======
+	}
+}
+>>>>>>> origin/main
