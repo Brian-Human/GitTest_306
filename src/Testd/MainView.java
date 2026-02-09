@@ -1,0 +1,10 @@
+package Testd;
+
+public class MainView {
+
+	public static void main(String[] args) {
+		System.out.println("test...........");
+		System.out.println("수정....");
+	}
+
+}
