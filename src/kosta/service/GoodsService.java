@@ -6,5 +6,5 @@ public class GoodsService {
 		System.out.println("insert call2 .....");
 	
 	
-	
+	}
 }
