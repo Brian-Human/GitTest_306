@@ -4,13 +4,10 @@ public class GoodsService {
 	public void insert() {
 		System.out.println("insert call .....");
 		System.out.println("insert call2 .....");
-	
-	
-<<<<<<< HEAD
-	
+	}
+	public void insert2() {
+		System.out.println("insert call .....");
+		System.out.println("insert call2 .....");
+		
 	}
 }
-=======
-	}
-}
->>>>>>> origin/main
