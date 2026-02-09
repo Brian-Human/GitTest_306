@@ -8,9 +8,15 @@ public class GoodsService {
 	public void insert2() {
 		System.out.println("insert call .....");
 		System.out.println("insert call2 .....");
+		System.out.println("insert call3 .....");
 		
 	}
 
+	public void insert3() {
+		System.out.println("insert call .....");
+		System.out.println("insert call2 .....");
+		System.out.println("insert call3 .....");
+		
 	public void selectAll(){
 	}
 }
