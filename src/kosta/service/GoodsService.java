@@ -17,7 +17,10 @@ public class GoodsService {
 		System.out.println("insert call2 .....");
 		System.out.println("insert call3 .....");
 		System.out.println("insert call4 .....");
+		System.out.println("insert call5 .....");
 	}
+
+	
 	public void selectAll(){
 	}
 }
